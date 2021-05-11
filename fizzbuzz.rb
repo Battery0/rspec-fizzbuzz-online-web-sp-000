@@ -8,5 +8,7 @@ def fizzbuzz(int)
   
   elsif int % 3 == 0 && int % 5 == 0
   
+  else
+    
   end
 end
